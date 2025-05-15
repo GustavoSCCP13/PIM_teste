@@ -98,14 +98,7 @@ body {
 
 /* Especializações */
 
-.social {
-    background-color: #ACF533;
-    flex-direction: row;
-    text-align: center;
-    color: black;
-    margin-bottom: 80px;
-    padding: 30px 300px 30px 0px;
-}
+
 .social button{
         width: 30%;
         height: 100px;
@@ -191,78 +184,3 @@ body {
     margin: 0% 15% 0% 0%;
 }
 
-/*sobre mim*/
-
-
-.secao_3 {
-    height: 70%;
-    margin: 3% 0;
-    background-color: #c2abf7e1;
-}
-.secao_3 .container {
-    height: 100%;
-    align-items: center;
-    justify-content: right;
-    overflow: hidden;
-}
-
-.secao_3 .caixa_nossa_historia {
-    background-color: white;
-    width: 22.5%;
-    height: 45%;
-    position: absolute;
-    right: 57%; 
-    border-radius: 4px;
-    padding: 4% 4% 6% 4%;
-    
-}
-.secao_3 img {
-    height: auto;
-    width: auto;
-    max-width: 45%;
-    margin: 0% 15% 0% 0%;
-}
-
-
-.caixa_nossa_historia h1 {
-    margin-bottom: 5%;
-    font-size: 2.0vw;
-}
-.caixa_nossa_historia hr {
-    margin-bottom: 5%;
-    background-color: black;
-}
-.caixa_nossa_historia p {
-    font-size: 1.3vw;
-    margin-bottom: 10%;
-}
-.caixa_nossa_historia button {
-    width: 55%;
-    height: 15%;
-    color: black;
-    background-color: #20ABF8;
-    border: none;
-    border-radius: 3px;
-    cursor: pointer;
-}
-.footer {
-    width: 100%;
-    height: 100px;
-    background-color: #ccff00;
-    border-top: 5px solid #3B58EB;
-    /* borda do foorter */
-    color: #333333;
-    
-
-}
-
-
-
-.footer .container {
-
-    justify-content: center;
-    align-items: center;
-    height: 100%;
-   
-
-}
